@@ -40,8 +40,8 @@ You can use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and
 
 **EXAMPLE:** 3 + 5 x 6 - 2 / 4 =
 
-__*Immediate Execution Logic:__ 11.5
-__*Formula/Expression Logic:__ 32.5
+- **Immediate Execution Logic:** 11.5
+- **Formula/Expression Logic:** 32.5
 You can build your project by using this CodePen template and clicking Save to create your own pen. If you prefer to use another environment, then put this <script> tag into the body of your index.html file: <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 
 Once you're done, submit the URL to your working project with all its tests passing.
